@@ -1,3 +1,6 @@
+// if we run following code snippet on the console we'll understand the global execution phase, memory creation phase, execution phase;
+
+
 let val1 = 10;
 let val2 = 5;
 function addNum(num1,num2){
